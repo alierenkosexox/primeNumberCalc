@@ -18,7 +18,7 @@ public class Main {
                 }
             }
             if (ctrl == 0) {
-                System.out.println(number + " "); // asal sayıları buraya yazdır
+                System.out.print(number + " "); // asal sayıları buraya yazdır
                 pm++;
             }
         }
